@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Functions that can be used to export the data stored in SQLite to other formats.
 """
